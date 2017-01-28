@@ -1,3 +1,3 @@
 # ped
 
-Another intro to pedestal project.
+Another intro to pedestal project
